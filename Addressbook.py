@@ -12,6 +12,7 @@ was_saved = False
 info = "Hello, this is your Addressbook! Commands available by request 'commands'"
 
 
+
 def info_command():
     print("Available commands: 'record', 'view', 'add number', 'add email', 'upcoming', 'find', 'remove', 'edit', 'save', 'open'")
 

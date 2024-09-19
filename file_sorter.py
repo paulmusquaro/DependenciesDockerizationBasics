@@ -3,6 +3,7 @@ import re
 import shutil
 from pathlib import Path
 
+
 class FileOrganizer:
     def __init__(self):
         self.JPEG_IMAGES = []

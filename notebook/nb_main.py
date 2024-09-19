@@ -1,6 +1,7 @@
 import os
 
 
+
 class NoteManager:
     def __init__(self, note_folder):
         self.note_folder = note_folder
