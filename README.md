@@ -57,7 +57,7 @@ To build a Docker image from the Dockerfile and push it to Docker Hub, follow th
 + Once the image is pushed to Docker Hub, you can run it locally by executing the following command:
 
     ```
-        docker run -it <your-dockerhub-username>/personal-assistant:latest /bin/bash
+    docker run -it <your-dockerhub-username>/personal-assistant:latest /bin/bash
     ```
 
     *Ensure to replace <your-dockerhub-username> with your actual Docker Hub username.
